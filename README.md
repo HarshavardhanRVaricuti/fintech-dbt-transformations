@@ -31,7 +31,8 @@ The pipeline follows a robust **ELT (Extract, Load, Transform)** pattern with ze
 ## 📊 Business Intelligence Layer
 
 ### [👉 Click Here to View the Live Interactive Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiNGZkYjQ5NzEtNDVlNy00ZjM1LWFmYTgtYjEyMzk0YzZkYTNiIiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
-*(📸 <img width="1794" height="1006" alt="image" src="https://github.com/user-attachments/assets/edad1a68-d950-4274-b824-842d111c632c" />)*
+*(<img width="2934" height="1478" alt="image" src="https://github.com/user-attachments/assets/e66df5a0-6255-4961-a86b-a85be503785b" />
+)*
 
 ### Dashboard Technical Specs:
 * **Connection Type:** DirectQuery (Real-time link to Snowflake).
